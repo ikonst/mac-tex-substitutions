@@ -1,0 +1,11 @@
+This project provides TeX-like symbol substitutions for OS X. It works by importing a predefined set of substitutions[1] into the global preferences.
+
+The substitutions will function in most applications: make sure you enable text replacement in Edit | Substitutions | Text Replacement.
+
+Usage: load.py file.json
+
+* tex.json contains math TeX sequences
+* ligatures.json contains ligature TeX sequences
+* combining.json contains combining mark TeX sequences
+
+[1] Produced semi-automatically from http://www.cl.cam.ac.uk/~mgk25/ucs/examples/TeX.txt
