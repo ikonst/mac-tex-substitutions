@@ -23,7 +23,7 @@ for item in items:
 	if importedData.has_key(replace):
 		importedItem = importedData[replace]
 		item.setObject_forKey_(importedItem['enabled'], 'on');
-		item.setObject_forKey_(importedItem['replacement']+'foobar', 'with');
+		item.setObject_forKey_(importedItem['replacement'], 'with');
 		del importedData[replace]
 		updated += 1
 
