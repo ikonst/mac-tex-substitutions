@@ -1,0 +1,162 @@
+{
+	"'": {
+		"enabled":true,
+		"replacement": "\u2019"
+	},
+	"`": {
+		"enabled":true,
+		"replacement": "\u2018"
+	},
+	"''": {
+		"enabled":true,
+		"replacement": "\u201d"
+	},
+	"``": {
+		"enabled":true,
+		"replacement": "\u201c"
+	},
+	"-": {
+		"enabled":true,
+		"replacement": "\u2010"
+	},
+	"--": {
+		"enabled":true,
+		"replacement": "\u2013"
+	},
+	"---": {
+		"enabled":true,
+		"replacement": "\u2014"
+	},
+	"$-$": {
+		"enabled":true,
+		"replacement": "\u2212"
+	},
+	"$'$": {
+		"enabled":true,
+		"replacement": "\u2032"
+	},
+	"$''$": {
+		"enabled":true,
+		"replacement": "\u2033"
+	},
+	"$'''$": {
+		"enabled":true,
+		"replacement": "\u2034"
+	},
+	"$''''$": {
+		"enabled":true,
+		"replacement": "\u2057"
+	},
+	"ff": {
+		"enabled":true,
+		"replacement": "\ufb00"
+	},
+	"fi": {
+		"enabled":true,
+		"replacement": "\ufb01"
+	},
+	"fl": {
+		"enabled":true,
+		"replacement": "\ufb02"
+	},
+	"ffi": {
+		"enabled":true,
+		"replacement": "\ufb03"
+	},
+	"ffl": {
+		"enabled":true,
+		"replacement": "\ufb04"
+	},
+	"!`": {
+		"enabled":true,
+		"replacement": "\u00a1"
+	},
+	"?`": {
+		"enabled":true,
+		"replacement": "\u00bf"
+	},
+	"~": {
+		"enabled":true,
+		"replacement": "\u00a0"
+	},
+	"\\thinspace": {
+		"enabled":true,
+		"replacement": "\u2009"
+	},
+	"$\\,$": {
+		"enabled":true,
+		"replacement": "\u2009"
+	},
+	"\\oe": {
+		"enabled":true,
+		"replacement": "\u0153"
+	},
+	"\\OE": {
+		"enabled":true,
+		"replacement": "\u0152"
+	},
+	"\\ae": {
+		"enabled":true,
+		"replacement": "\u00e6"
+	},
+	"\\AE": {
+		"enabled":true,
+		"replacement": "\u00c6"
+	},
+	"\\aa": {
+		"enabled":true,
+		"replacement": "\u00e5"
+	},
+	"\\AA": {
+		"enabled":true,
+		"replacement": "\u00c5"
+	},
+	"\\o": {
+		"enabled":true,
+		"replacement": "\u00f8"
+	},
+	"\\O": {
+		"enabled":true,
+		"replacement": "\u00d8"
+	},
+	"\\l": {
+		"enabled":true,
+		"replacement": "\u0142"
+	},
+	"\\L": {
+		"enabled":true,
+		"replacement": "\u0141"
+	},
+	"\\ss": {
+		"enabled":true,
+		"replacement": "\u00df"
+	},
+	"\\S": {
+		"enabled":true,
+		"replacement": "\u00a7"
+	},
+	"\\P": {
+		"enabled":true,
+		"replacement": "\u00b6"
+	},
+	"\\dag": {
+		"enabled":true,
+		"replacement": "\u2020"
+	},
+	"\\ddag": {
+		"enabled":true,
+		"replacement": "\u2021"
+	},
+	"\\copyright": {
+		"enabled":true,
+		"replacement": "\u00a9"
+	},
+	"\\pounds": {
+		"enabled":true,
+		"replacement": "\u00a3"
+	},
+	"\\ldots": {
+		"enabled":true,
+		"replacement": "\u2026"
+	}
+}

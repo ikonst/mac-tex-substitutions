@@ -1,0 +1,62 @@
+{
+	"\\'": {
+		"enabled":true,
+		"replacement": "\u0301"
+	},
+	"\\`": {
+		"enabled":true,
+		"replacement": "\u0300"
+	},
+	"\\^": {
+		"enabled":true,
+		"replacement": "\u0302"
+	},
+	"\\\"": {
+		"enabled":true,
+		"replacement": "\u0308"
+	},
+	"\\~": {
+		"enabled":true,
+		"replacement": "\u0303"
+	},
+	"\\=": {
+		"enabled":true,
+		"replacement": "\u0304"
+	},
+	"\\.": {
+		"enabled":true,
+		"replacement": "\u0307"
+	},
+	"\\u": {
+		"enabled":true,
+		"replacement": "\u0306"
+	},
+	"\\v": {
+		"enabled":true,
+		"replacement": "\u030c"
+	},
+	"\\H": {
+		"enabled":true,
+		"replacement": "\u030b"
+	},
+	"\\t": {
+		"enabled":true,
+		"replacement": "\u0361"
+	},
+	"\\c": {
+		"enabled":true,
+		"replacement": "\u0327"
+	},
+	"\\d": {
+		"enabled":true,
+		"replacement": "\u0323"
+	},
+	"\\b": {
+		"enabled":true,
+		"replacement": "\u0331"
+	},
+	"\\not": {
+		"enabled":true,
+		"replacement": "\u0338"
+	}
+}

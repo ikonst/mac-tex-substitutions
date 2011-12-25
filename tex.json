@@ -1,0 +1,978 @@
+{
+	"\\alpha": {
+		"enabled":true,
+		"replacement": "\u03b1"
+	},
+	"\\iota": {
+		"enabled":true,
+		"replacement": "\u03b9"
+	},
+	"\\varrho": {
+		"enabled":true,
+		"replacement": "\u03f1"
+	},
+	"\\beta": {
+		"enabled":true,
+		"replacement": "\u03b2"
+	},
+	"\\kappa": {
+		"enabled":true,
+		"replacement": "\u03ba"
+	},
+	"\\sigma": {
+		"enabled":true,
+		"replacement": "\u03c3"
+	},
+	"\\gamma": {
+		"enabled":true,
+		"replacement": "\u03b3"
+	},
+	"\\lambda": {
+		"enabled":true,
+		"replacement": "\u03bb"
+	},
+	"\\varsigma": {
+		"enabled":true,
+		"replacement": "\u03c2"
+	},
+	"\\delta": {
+		"enabled":true,
+		"replacement": "\u03b4"
+	},
+	"\\mu": {
+		"enabled":true,
+		"replacement": "\u03bc"
+	},
+	"\\tau": {
+		"enabled":true,
+		"replacement": "\u03c4"
+	},
+	"\\epsilon": {
+		"enabled":true,
+		"replacement": "\u03f5"
+	},
+	"\\nu": {
+		"enabled":true,
+		"replacement": "\u03bd"
+	},
+	"\\upsilon": {
+		"enabled":true,
+		"replacement": "\u03c5"
+	},
+	"\\varepsilon": {
+		"enabled":true,
+		"replacement": "\u03b5"
+	},
+	"\\xi": {
+		"enabled":true,
+		"replacement": "\u03be"
+	},
+	"\\phi": {
+		"enabled":true,
+		"replacement": "\u03d5"
+	},
+	"\\zeta": {
+		"enabled":true,
+		"replacement": "\u03b6"
+	},
+	"\\varphi": {
+		"enabled":true,
+		"replacement": "\u03c6"
+	},
+	"\\eta": {
+		"enabled":true,
+		"replacement": "\u03b7"
+	},
+	"\\pi": {
+		"enabled":true,
+		"replacement": "\u03c0"
+	},
+	"\\chi": {
+		"enabled":true,
+		"replacement": "\u03c7"
+	},
+	"\\theta": {
+		"enabled":true,
+		"replacement": "\u03b8"
+	},
+	"\\varpi": {
+		"enabled":true,
+		"replacement": "\u03d6"
+	},
+	"\\psi": {
+		"enabled":true,
+		"replacement": "\u03c8"
+	},
+	"\\vartheta": {
+		"enabled":true,
+		"replacement": "\u03d1"
+	},
+	"\\rho": {
+		"enabled":true,
+		"replacement": "\u03c1"
+	},
+	"\\omega": {
+		"enabled":true,
+		"replacement": "\u03c9"
+	},
+	"\\Gamma": {
+		"enabled":true,
+		"replacement": "\u0393"
+	},
+	"\\Xi": {
+		"enabled":true,
+		"replacement": "\u039e"
+	},
+	"\\Phi": {
+		"enabled":true,
+		"replacement": "\u03a6"
+	},
+	"\\Delta": {
+		"enabled":true,
+		"replacement": "\u0394"
+	},
+	"\\Pi": {
+		"enabled":true,
+		"replacement": "\u03a0"
+	},
+	"\\Psi": {
+		"enabled":true,
+		"replacement": "\u03a8"
+	},
+	"\\Theta": {
+		"enabled":true,
+		"replacement": "\u0398"
+	},
+	"\\Sigma": {
+		"enabled":true,
+		"replacement": "\u03a3"
+	},
+	"\\Omega": {
+		"enabled":true,
+		"replacement": "\u03a9"
+	},
+	"\\Lambda": {
+		"enabled":true,
+		"replacement": "\u039b"
+	},
+	"\\Upsilon": {
+		"enabled":true,
+		"replacement": "\u03a5"
+	},
+	"\\aleph": {
+		"enabled":true,
+		"replacement": "\u2135"
+	},
+	"\\prime": {
+		"enabled":true,
+		"replacement": "\u2032"
+	},
+	"\\forall": {
+		"enabled":true,
+		"replacement": "\u2200"
+	},
+	"\\hbar": {
+		"enabled":true,
+		"replacement": "\u210f"
+	},
+	"\\emptyset": {
+		"enabled":true,
+		"replacement": "\u2205"
+	},
+	"\\exists": {
+		"enabled":true,
+		"replacement": "\u2203"
+	},
+	"\\imath": {
+		"enabled":true,
+		"replacement": "\u0131"
+	},
+	"\\nabla": {
+		"enabled":true,
+		"replacement": "\u2207"
+	},
+	"\\neg": {
+		"enabled":true,
+		"replacement": "\u00ac"
+	},
+	"\\jmath": {
+		"enabled":true,
+		"replacement": "\u006a"
+	},
+	"\\surd": {
+		"enabled":true,
+		"replacement": "\u221a"
+	},
+	"\\flat": {
+		"enabled":true,
+		"replacement": "\u266d"
+	},
+	"\\ell": {
+		"enabled":true,
+		"replacement": "\u2113"
+	},
+	"\\top": {
+		"enabled":true,
+		"replacement": "\u22a4"
+	},
+	"\\natural": {
+		"enabled":true,
+		"replacement": "\u266e"
+	},
+	"\\wp": {
+		"enabled":true,
+		"replacement": "\u2118"
+	},
+	"\\bot": {
+		"enabled":true,
+		"replacement": "\u22a5"
+	},
+	"\\sharp": {
+		"enabled":true,
+		"replacement": "\u266f"
+	},
+	"\\Re": {
+		"enabled":true,
+		"replacement": "\u211c"
+	},
+	"\\|": {
+		"enabled":true,
+		"replacement": "\u2225"
+	},
+	"\\clubsuit": {
+		"enabled":true,
+		"replacement": "\u2663"
+	},
+	"\\Im": {
+		"enabled":true,
+		"replacement": "\u2111"
+	},
+	"\\angle": {
+		"enabled":true,
+		"replacement": "\u2220"
+	},
+	"\\diamondsuit": {
+		"enabled":true,
+		"replacement": "\u2662"
+	},
+	"\\partial": {
+		"enabled":true,
+		"replacement": "\u2202"
+	},
+	"\\triangle": {
+		"enabled":true,
+		"replacement": "\u25b3"
+	},
+	"\\heartsuit": {
+		"enabled":true,
+		"replacement": "\u2661"
+	},
+	"\\infty": {
+		"enabled":true,
+		"replacement": "\u221e"
+	},
+	"\\backslash": {
+		"enabled":true,
+		"replacement": "\u005c"
+	},
+	"\\spadesuit": {
+		"enabled":true,
+		"replacement": "\u2660"
+	},
+	"\\Box": {
+		"enabled":true,
+		"replacement": "\u25a1"
+	},
+	"\\Diamond": {
+		"enabled":true,
+		"replacement": "\u25c7"
+	},
+	"\\sum": {
+		"enabled":true,
+		"replacement": "\u2211"
+	},
+	"\\bigcap": {
+		"enabled":true,
+		"replacement": "\u22c2"
+	},
+	"\\bigodot": {
+		"enabled":true,
+		"replacement": "\u2a00"
+	},
+	"\\prod": {
+		"enabled":true,
+		"replacement": "\u220f"
+	},
+	"\\bigcup": {
+		"enabled":true,
+		"replacement": "\u22c3"
+	},
+	"\\bigotimes": {
+		"enabled":true,
+		"replacement": "\u2a02"
+	},
+	"\\coprod": {
+		"enabled":true,
+		"replacement": "\u2210"
+	},
+	"\\bigsqcup": {
+		"enabled":true,
+		"replacement": "\u2a06"
+	},
+	"\\bigoplus": {
+		"enabled":true,
+		"replacement": "\u2a01"
+	},
+	"\\int": {
+		"enabled":true,
+		"replacement": "\u222b"
+	},
+	"\\bigvee": {
+		"enabled":true,
+		"replacement": "\u22c1"
+	},
+	"\\biguplus": {
+		"enabled":true,
+		"replacement": "\u2a04"
+	},
+	"\\oint": {
+		"enabled":true,
+		"replacement": "\u222e"
+	},
+	"\\bigwedge": {
+		"enabled":true,
+		"replacement": "\u22c0"
+	},
+	"\\pm": {
+		"enabled":true,
+		"replacement": "\u00b1"
+	},
+	"\\cap": {
+		"enabled":true,
+		"replacement": "\u2229"
+	},
+	"\\vee": {
+		"enabled":true,
+		"replacement": "\u2228"
+	},
+	"\\mp": {
+		"enabled":true,
+		"replacement": "\u2213"
+	},
+	"\\cup": {
+		"enabled":true,
+		"replacement": "\u222a"
+	},
+	"\\wedge": {
+		"enabled":true,
+		"replacement": "\u2227"
+	},
+	"\\setminus": {
+		"enabled":true,
+		"replacement": "\u2216"
+	},
+	"\\uplus": {
+		"enabled":true,
+		"replacement": "\u228e"
+	},
+	"\\oplus": {
+		"enabled":true,
+		"replacement": "\u2295"
+	},
+	"\\cdot": {
+		"enabled":true,
+		"replacement": "\u22c5"
+	},
+	"\\sqcap": {
+		"enabled":true,
+		"replacement": "\u2293"
+	},
+	"\\ominus": {
+		"enabled":true,
+		"replacement": "\u2296"
+	},
+	"\\times": {
+		"enabled":true,
+		"replacement": "\u00d7"
+	},
+	"\\sqcup": {
+		"enabled":true,
+		"replacement": "\u2294"
+	},
+	"\\otimes": {
+		"enabled":true,
+		"replacement": "\u2297"
+	},
+	"\\ast": {
+		"enabled":true,
+		"replacement": "\u2217"
+	},
+	"\\triangleleft": {
+		"enabled":true,
+		"replacement": "\u25c1"
+	},
+	"\\oslash": {
+		"enabled":true,
+		"replacement": "\u2298"
+	},
+	"\\star": {
+		"enabled":true,
+		"replacement": "\u22c6"
+	},
+	"\\triangleright": {
+		"enabled":true,
+		"replacement": "\u25b7"
+	},
+	"\\odot": {
+		"enabled":true,
+		"replacement": "\u2299"
+	},
+	"\\diamond": {
+		"enabled":true,
+		"replacement": "\u22c4"
+	},
+	"\\wr": {
+		"enabled":true,
+		"replacement": "\u2240"
+	},
+	"\\dagger": {
+		"enabled":true,
+		"replacement": "\u2020"
+	},
+	"\\circ": {
+		"enabled":true,
+		"replacement": "\u2218"
+	},
+	"\\bigcirc": {
+		"enabled":true,
+		"replacement": "\u25ef"
+	},
+	"\\ddagger": {
+		"enabled":true,
+		"replacement": "\u2021"
+	},
+	"\\bullet": {
+		"enabled":true,
+		"replacement": "\u2219"
+	},
+	"\\bigtriangleup": {
+		"enabled":true,
+		"replacement": "\u25b3"
+	},
+	"\\amalg": {
+		"enabled":true,
+		"replacement": "\u2a3f"
+	},
+	"\\div": {
+		"enabled":true,
+		"replacement": "\u00f7"
+	},
+	"\\bigtriangledown": {
+		"enabled":true,
+		"replacement": "\u25bd"
+	},
+	"\\unlhd": {
+		"enabled":true,
+		"replacement": "\u22b4"
+	},
+	"\\lhd": {
+		"enabled":true,
+		"replacement": "\u22b2"
+	},
+	"\\rhd": {
+		"enabled":true,
+		"replacement": "\u22b3"
+	},
+	"\\unrhd": {
+		"enabled":true,
+		"replacement": "\u22b5"
+	},
+	"\\leq": {
+		"enabled":true,
+		"replacement": "\u2264"
+	},
+	"\\geq": {
+		"enabled":true,
+		"replacement": "\u2265"
+	},
+	"\\equiv": {
+		"enabled":true,
+		"replacement": "\u2261"
+	},
+	"\\prec": {
+		"enabled":true,
+		"replacement": "\u227a"
+	},
+	"\\succ": {
+		"enabled":true,
+		"replacement": "\u227b"
+	},
+	"\\sim": {
+		"enabled":true,
+		"replacement": "\u223c"
+	},
+	"\\preceq": {
+		"enabled":true,
+		"replacement": "\u227c"
+	},
+	"\\succeq": {
+		"enabled":true,
+		"replacement": "\u227d"
+	},
+	"\\simeq": {
+		"enabled":true,
+		"replacement": "\u2243"
+	},
+	"\\ll": {
+		"enabled":true,
+		"replacement": "\u226a"
+	},
+	"\\gg": {
+		"enabled":true,
+		"replacement": "\u226b"
+	},
+	"\\asymp": {
+		"enabled":true,
+		"replacement": "\u224d"
+	},
+	"\\subset": {
+		"enabled":true,
+		"replacement": "\u2282"
+	},
+	"\\supset": {
+		"enabled":true,
+		"replacement": "\u2283"
+	},
+	"\\approx": {
+		"enabled":true,
+		"replacement": "\u2248"
+	},
+	"\\subseteq": {
+		"enabled":true,
+		"replacement": "\u2286"
+	},
+	"\\supseteq": {
+		"enabled":true,
+		"replacement": "\u2287"
+	},
+	"\\cong": {
+		"enabled":true,
+		"replacement": "\u2245"
+	},
+	"\\sqsubseteq": {
+		"enabled":true,
+		"replacement": "\u2291"
+	},
+	"\\sqsupseteq": {
+		"enabled":true,
+		"replacement": "\u2292"
+	},
+	"\\bowtie": {
+		"enabled":true,
+		"replacement": "\u22c8"
+	},
+	"\\in": {
+		"enabled":true,
+		"replacement": "\u2208"
+	},
+	"\\ni": {
+		"enabled":true,
+		"replacement": "\u220b"
+	},
+	"\\propto": {
+		"enabled":true,
+		"replacement": "\u221d"
+	},
+	"\\vdash": {
+		"enabled":true,
+		"replacement": "\u22a2"
+	},
+	"\\dashv": {
+		"enabled":true,
+		"replacement": "\u22a3"
+	},
+	"\\models": {
+		"enabled":true,
+		"replacement": "\u22a8"
+	},
+	"\\smile": {
+		"enabled":true,
+		"replacement": "\u2323"
+	},
+	"\\mid": {
+		"enabled":true,
+		"replacement": "\u2223"
+	},
+	"\\doteq": {
+		"enabled":true,
+		"replacement": "\u2250"
+	},
+	"\\frown": {
+		"enabled":true,
+		"replacement": "\u2322"
+	},
+	"\\parallel": {
+		"enabled":true,
+		"replacement": "\u2225"
+	},
+	"\\perp": {
+		"enabled":true,
+		"replacement": "\u22a5"
+	},
+	"\\sqsubset": {
+		"enabled":true,
+		"replacement": "\u228f"
+	},
+	"\\sqsupset": {
+		"enabled":true,
+		"replacement": "\u2290"
+	},
+	"\\Join": {
+		"enabled":true,
+		"replacement": "\u2a1d"
+	},
+	"\\not<": {
+		"enabled":true,
+		"replacement": "\u226e"
+	},
+	"\\not>": {
+		"enabled":true,
+		"replacement": "\u226f"
+	},
+	"\\not=": {
+		"enabled":true,
+		"replacement": "\u2260"
+	},
+	"\\not\\leq": {
+		"enabled":true,
+		"replacement": "\u2270"
+	},
+	"\\not\\geq": {
+		"enabled":true,
+		"replacement": "\u2271"
+	},
+	"\\not\\equiv": {
+		"enabled":true,
+		"replacement": "\u2262"
+	},
+	"\\not\\prec": {
+		"enabled":true,
+		"replacement": "\u2280"
+	},
+	"\\not\\succ": {
+		"enabled":true,
+		"replacement": "\u2281"
+	},
+	"\\not\\sim": {
+		"enabled":true,
+		"replacement": "\u2241"
+	},
+	"\\not\\preceq": {
+		"enabled":true,
+		"replacement": "\u22e0"
+	},
+	"\\not\\succeq": {
+		"enabled":true,
+		"replacement": "\u22e1"
+	},
+	"\\not\\simeq": {
+		"enabled":true,
+		"replacement": "\u2244"
+	},
+	"\\not\\subset": {
+		"enabled":true,
+		"replacement": "\u2284"
+	},
+	"\\not\\supset": {
+		"enabled":true,
+		"replacement": "\u2285"
+	},
+	"\\not\\approx": {
+		"enabled":true,
+		"replacement": "\u2249"
+	},
+	"\\not\\subseteq": {
+		"enabled":true,
+		"replacement": "\u2288"
+	},
+	"\\not\\supseteq": {
+		"enabled":true,
+		"replacement": "\u2289"
+	},
+	"\\not\\cong": {
+		"enabled":true,
+		"replacement": "\u2247"
+	},
+	"\\not\\sqsubseteq": {
+		"enabled":true,
+		"replacement": "\u22e2"
+	},
+	"\\not\\sqsupseteq": {
+		"enabled":true,
+		"replacement": "\u22e3"
+	},
+	"\\not\\asymp": {
+		"enabled":true,
+		"replacement": "\u226d"
+	},
+	"\\leftarrow": {
+		"enabled":true,
+		"replacement": "\u2190"
+	},
+	"\\uparrow": {
+		"enabled":true,
+		"replacement": "\u2191"
+	},
+	"\\Leftarrow": {
+		"enabled":true,
+		"replacement": "\u21d0"
+	},
+	"\\Uparrow": {
+		"enabled":true,
+		"replacement": "\u21d1"
+	},
+	"\\rightarrow": {
+		"enabled":true,
+		"replacement": "\u2192"
+	},
+	"\\downarrow": {
+		"enabled":true,
+		"replacement": "\u2193"
+	},
+	"\\Rightarrow": {
+		"enabled":true,
+		"replacement": "\u21d2"
+	},
+	"\\Downarrow": {
+		"enabled":true,
+		"replacement": "\u21d3"
+	},
+	"\\leftrightarrow": {
+		"enabled":true,
+		"replacement": "\u2194"
+	},
+	"\\updownarrow": {
+		"enabled":true,
+		"replacement": "\u2195"
+	},
+	"\\Leftrightarrow": {
+		"enabled":true,
+		"replacement": "\u21d4"
+	},
+	"\\Updownarrow": {
+		"enabled":true,
+		"replacement": "\u21d5"
+	},
+	"\\mapsto": {
+		"enabled":true,
+		"replacement": "\u21a6"
+	},
+	"\\nearrow": {
+		"enabled":true,
+		"replacement": "\u2197"
+	},
+	"\\hookleftarrow": {
+		"enabled":true,
+		"replacement": "\u21a9"
+	},
+	"\\hookrightarrow": {
+		"enabled":true,
+		"replacement": "\u21aa"
+	},
+	"\\searrow": {
+		"enabled":true,
+		"replacement": "\u2198"
+	},
+	"\\leftharpoonup": {
+		"enabled":true,
+		"replacement": "\u21bc"
+	},
+	"\\rightharpoonup": {
+		"enabled":true,
+		"replacement": "\u21c0"
+	},
+	"\\swarrow": {
+		"enabled":true,
+		"replacement": "\u2199"
+	},
+	"\\leftharpoondown": {
+		"enabled":true,
+		"replacement": "\u21bd"
+	},
+	"\\rightharpoondown": {
+		"enabled":true,
+		"replacement": "\u21c1"
+	},
+	"\\nwarrow": {
+		"enabled":true,
+		"replacement": "\u2196"
+	},
+	"\\rightleftharpoons": {
+		"enabled":true,
+		"replacement": "\u21cc"
+	},
+	"\\leadsto": {
+		"enabled":true,
+		"replacement": "\u219d"
+	},
+	"\\lbrack": {
+		"enabled":true,
+		"replacement": "\u005b"
+	},
+	"\\lfloor": {
+		"enabled":true,
+		"replacement": "\u230a"
+	},
+	"\\lceil": {
+		"enabled":true,
+		"replacement": "\u2308"
+	},
+	"\\lbrace": {
+		"enabled":true,
+		"replacement": "\u007b"
+	},
+	"\\langle": {
+		"enabled":true,
+		"replacement": "\u27e8"
+	},
+	"\\langle\\!\\langle": {
+		"enabled":true,
+		"replacement": "\u27ea"
+	},
+	"\\rbrack": {
+		"enabled":true,
+		"replacement": "\u005d"
+	},
+	"\\rfloor": {
+		"enabled":true,
+		"replacement": "\u230b"
+	},
+	"\\rceil": {
+		"enabled":true,
+		"replacement": "\u2309"
+	},
+	"\\rbrace": {
+		"enabled":true,
+		"replacement": "\u007d"
+	},
+	"\\rangle": {
+		"enabled":true,
+		"replacement": "\u27e9"
+	},
+	"\\rangle\\!\\rangle": {
+		"enabled":true,
+		"replacement": "\u27eb"
+	},
+	"\\ne": {
+		"enabled":true,
+		"replacement": "\u2260"
+	},
+	"\\neq": {
+		"enabled":true,
+		"replacement": "\u2260"
+	},
+	"\\not=": {
+		"enabled":true,
+		"replacement": "\u2260"
+	},
+	"\\le": {
+		"enabled":true,
+		"replacement": "\u2264"
+	},
+	"\\leq": {
+		"enabled":true,
+		"replacement": "\u2264"
+	},
+	"\\ge": {
+		"enabled":true,
+		"replacement": "\u2265"
+	},
+	"\\geq": {
+		"enabled":true,
+		"replacement": "\u2265"
+	},
+	"\\{": {
+		"enabled":true,
+		"replacement": "\u007b"
+	},
+	"\\lbrace": {
+		"enabled":true,
+		"replacement": "\u007b"
+	},
+	"\\}": {
+		"enabled":true,
+		"replacement": "\u007d"
+	},
+	"\\rbrace": {
+		"enabled":true,
+		"replacement": "\u007d"
+	},
+	"\\to": {
+		"enabled":true,
+		"replacement": "\u2192"
+	},
+	"\\rightarrow": {
+		"enabled":true,
+		"replacement": "\u2192"
+	},
+	"\\gets": {
+		"enabled":true,
+		"replacement": "\u2190"
+	},
+	"\\leftarrow": {
+		"enabled":true,
+		"replacement": "\u2190"
+	},
+	"\\owns": {
+		"enabled":true,
+		"replacement": "\u220b"
+	},
+	"\\ni": {
+		"enabled":true,
+		"replacement": "\u220b"
+	},
+	"\\land": {
+		"enabled":true,
+		"replacement": "\u2227"
+	},
+	"\\wedge": {
+		"enabled":true,
+		"replacement": "\u2227"
+	},
+	"\\lor": {
+		"enabled":true,
+		"replacement": "\u2228"
+	},
+	"\\vee": {
+		"enabled":true,
+		"replacement": "\u2228"
+	},
+	"\\lnot": {
+		"enabled":true,
+		"replacement": "\u00ac"
+	},
+	"\\neg": {
+		"enabled":true,
+		"replacement": "\u00ac"
+	},
+	"\\vert": {
+		"enabled":true,
+		"replacement": "\u2223"
+	},
+	"\\Vert": {
+		"enabled":true,
+		"replacement": "\u2225"
+	},
+	"\\vdots": {
+		"enabled":true,
+		"replacement": "\u22ee"
+	},
+	"\\cdots": {
+		"enabled":true,
+		"replacement": "\u22ef"
+	},
+	"\\ddots": {
+		"enabled":true,
+		"replacement": "\u22f1"
+	}
+}
