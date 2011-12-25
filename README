@@ -1,9 +1,10 @@
-This project provides TeX-like symbol substitutions for OS X. It works by importing a predefined set of substitutions[1] into the global preferences.
+This project provides mappings between TeX sequences and Unicode text[1], and a way to import these mappings into OS X' list of text substitutions (as can be seen in System Preferences | Language & Text | Text).
 
 The substitutions will function in most applications: make sure you enable text replacement in Edit | Substitutions | Text Replacement.
 
-Usage: load.py file.json
+Usage: load.py map.json
 
+The following maps are available:
 * tex.json contains math TeX sequences
 * ligatures.json contains ligature TeX sequences
 * combining.json contains combining mark TeX sequences
