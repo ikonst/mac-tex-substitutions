@@ -1,7 +1,7 @@
 #!/usr/bin/python2.6
 import json;
 import sys;
-from Foundation import NSUserDefaults, NSMutableDictionary
+from Foundation import NSUserDefaults, NSMutableDictionary, NSDistributedNotificationCenter
 
 if len(sys.argv) < 2:
 	sys.exit("Usage: load.py [map.json]")
@@ -37,7 +37,11 @@ for key, importedItem in importedData.iteritems():
 	added += 1
 
 prefs.setPersistentDomain_forName_(dict, '.GlobalPreferences');
-prefs.synchronize();
+
+NSUserDefaults.resetStandardUserDefaults();
+
+# Apply the changes immediately (the preference pane sends this notification)
+NSDistributedNotificationCenter.defaultCenter().postNotificationName_object_('NSSpellServerReplacementsChanged', None);
 
 print repr(added) + " substitutions added."
 print repr(updated) + " substitutions updated."
