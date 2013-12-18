@@ -1,6 +1,17 @@
-This project provides mappings between TeX sequences and Unicode text[1], and a way to import these mappings into OS X' list of text substitutions (as can be seen in System Preferences | Language & Text | Text).
+NOTE: Currently the code doesn't work properly on OS X v10.9 Maverick.
+Although the text replacements are functional, they disappear as soon
+as one enters the Text pane of the Keyboard preferences. This is likely
+related to the newly introduced iCloud "Documents & Data" synchronization.
 
-The substitutions will function in most applications: make sure you enable text replacement in Edit | Substitutions | Text Replacement.
+- - -
+
+This project provides mappings between TeX sequences and Unicode text[1],
+and a way to import these mappings into OS X' list of text substitutions
+(as can be seen in the Text pane of the Keyboard preferences (or the
+Language & Text preferences prior to OS X v10.9 Maverick).
+
+The substitutions will function in most applications: make sure
+you enable text replacement in Edit | Substitutions | Text Replacement.
 
 Usage: load.py map.json
 
@@ -9,4 +20,5 @@ The following mappings are available:
 * ligatures.json - ligature TeX sequences
 * combining.json - combining mark TeX sequences
 
-[1] Produced semi-automatically from http://www.cl.cam.ac.uk/~mgk25/ucs/examples/TeX.txt
+[1] Produced semi-automatically from
+http://www.cl.cam.ac.uk/~mgk25/ucs/examples/TeX.txt
